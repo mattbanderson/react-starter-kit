@@ -7,8 +7,11 @@ You'll need Node.js. If you don't have it, get it from here: [https://nodejs.org
 
 # Installation
 
-    git clone 'https://github.com/mbanderson3/react-starter-kit'
+    git clone 'https://github.com/mbanderson3/react-starter-kit.git'
+    cd react-starter-kit
     npm install
-
+    npm run transpile
+    npm start
+    
 # License
 MIT
