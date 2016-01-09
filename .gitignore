@@ -1,0 +1,13 @@
+### Node / npm ###
+node_modules/
+
+### Zip files ###
+*.zip
+
+### build folder (compiled JS) ###
+build/
+
+### bundled JS and CSS files ###
+bundle.js
+bundle.css
+
